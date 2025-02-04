@@ -38,6 +38,8 @@ Example 3.
 `python CyKITv2.py 127.0.0.1 12991 6 outputdata+info+confirm`
 See opt. for details.
 
+Please, ensure to connect client to CyKITv2.py server (local: same IP and port)
+
 *Thanks to the authors of cited links.*
  
 * Feel free to offer comments and suggests via Issues, for further <br>
